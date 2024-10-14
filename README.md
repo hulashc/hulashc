@@ -54,10 +54,5 @@
 </p>
 <!-- Connect Section End -->
 
-<!-- Profile Visit Count -->
-<div align="center">
-  [![Profile Views](https://github.com/hulashc/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/hulashc/my-views-counter)
-</div>
-
 <!--horizontal divider (gradient)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
