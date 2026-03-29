@@ -1,53 +1,34 @@
-### *Your Name.*
-
-data engineer **→** AI engineer &nbsp;`in progress`
-
----
-
-I build the infrastructure that teaches machines to think —
-pipelines to models, warehouses to vectors, noise to signal.
-
----
-
-**stack**
-
 ```
-data     →  Spark · Kafka · Flink · Airflow · dbt · Snowflake · Delta Lake
-ai / ml  →  PyTorch · HuggingFace · LangChain · LlamaIndex · FAISS · MLflow
-cloud    →  AWS · GCP · Kubernetes · Docker · Terraform
-lang     →  Python (primary) · SQL (native) · Scala (survival)
+           ████████████████              yourname@github
+        ████░░░░░░░░░░░░░░████          ──────────────────────────────────────────────
+      ███░░░░░░░░░░░░░░░░░░░███         · OS:          ............  Data Engineer → AI Engineer
+     ██░░░░░░░░░░░░░░░░░░░░░░██         · Uptime:      ..........    X yrs in data, Y months in AI
+    ██░░░░░░▓▓▓░░░░░░░▓▓▓░░░░░██        · Host:        ..........    Your Company / Open to Work
+    ██░░░░░░▓▓▓░░░░░░░▓▓▓░░░░░██        · Kernel:      .........     Python 3.12 · SQL · Scala
+    ██░░░░░░░░░░░░▄░░░░░░░░░░░██        · Shell:       ...........   zsh + tmux + neovim
+    ██░░░░░░░░░▄█████▄░░░░░░░░██        · IDE:         ...........   VS Code · JupyterLab · Cursor
+    ██░░░░░░░░░░█████░░░░░░░░░██
+     ██░░░░░░░░░░░░░░░░░░░░░░██         - Data.Stack ---────────────────────────────────────
+      ███░░░░░░░░░░░░░░░░░░███          · Batch:       ..........    Spark · dbt · Airflow · Delta Lake
+        ████░░░░░░░░░░░░████            · Streaming:   ........      Kafka · Flink · Kinesis
+           ████████████████             · Warehouse:   ........      Snowflake · BigQuery · Redshift
+          ██░░░░░░░░░░░░░░██
+         ██░░░████████░░░░░██           - AI.Stack ────────────────────────────────────────
+        ██░░███░░░░░░███░░░░██          · Models:      ..........    PyTorch · HuggingFace · OpenAI
+       ████░░░░░░░░░░░░░████            · RAG:         ..........    LangChain · LlamaIndex · FAISS
+      ██░░░░░░░░░░░░░░░░░░░██           · MLOps:       ..........    MLflow · Kubeflow · W&B
+     ██░░░░░░░░░░░░░░░░░░░░░██          · Learning:    ........      Fine-tuning · RLHF · Quantization
+      ████████████████████████
+                                        - GitHub.Stats ────────────────────────────────────
+                                        · Repos:    42 {Contributed: 80} | Stars: .... 342
+                                        · Commits:  ..........................  1,200 | Streak: 90d 🔥
+                                        · Lines:    ..................  380k ( 420k++, 40k-- )
+
+                                        - Contact ─────────────────────────────────────────
+                                        · Email:      ...........    you@email.com
+                                        · LinkedIn:   .........      linkedin.com/in/yourname
+                                        · Twitter:    ...........    @yourhandle
+                                        · Portfolio:  .........      yoursite.dev
+
+                                        ■ ■ ■ ■ ■ ■ ■ ■  ■ ■ ■ ■ ■ ■ ■ ■
 ```
-
----
-
-**right now**
-
-```
-building   →  AI-native data observability tool
-studying   →  LLM fine-tuning, RLHF, quantization
-reading    →  Attention is All You Need — 4th pass
-obsessing  →  RAG architectures + semantic retrieval
-```
-
----
-
-**how I think**
-
-> Data without context is just bytes. Intelligence is the context.
-
-> Build the pipeline first. The model is only as good as what feeds it.
-
-> Ship ugly, iterate fast, refactor with confidence.
-
----
-
-**connect**
-
-[linkedin](https://linkedin.com/in/yourname) &nbsp;·&nbsp;
-[twitter](https://twitter.com/yourhandle) &nbsp;·&nbsp;
-[writing](https://medium.com/@yourname) &nbsp;·&nbsp;
-[site](https://yoursite.dev)
-
----
-
-<sub>open to collabs &nbsp;·&nbsp; updated march 2026</sub>
