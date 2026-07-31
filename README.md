@@ -6,71 +6,87 @@
 
 # HULASH CHAND DONEMPUDI
 
-### Data Engineer → AI Engineer
+### Data Engineer · AI Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=FF9E3B&center=true&vCenter=true&width=600&lines=Building+AI-native+systems;Spark+%7C+Kafka+%7C+LLMs+%7C+RAG;Turning+petabytes+into+intelligence;Never+giving+up+on+a+bug+%F0%9F%94%A5" />
+<br/>
 
-<br/><br/>
+*Building systems that turn data into intelligence.*
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,aws,docker,kubernetes,pytorch,tensorflow,postgres,mongodb,git,linux" />
-</p>
+<br/>
 
-</div>
-
----
-
-# About Me
-
-- Building AI-native data platforms
-- Exploring RAG architectures + LLM systems
-- Obsessed with distributed systems + ML infra
-- Turning pipelines into intelligent systems
-
----
-
-# Current Stack
-
-<div align="center">
-
-| Data Engineering | AI / ML | Cloud |
-|---|---|---|
-| Spark | PyTorch | AWS |
-| Kafka | HuggingFace | Docker |
-| Flink | LangChain | Kubernetes |
-| Airflow | LlamaIndex | Terraform |
-| Snowflake | FAISS | GCP |
-
-</div>
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hulashc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hulashc&theme=tokyonight&hide_border=true&background=0D1117" />
+`Data` · `AI` · `Distributed Systems` · `LLMs`
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=hulashc&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+<img src="https://skillicons.dev/icons?i=python,aws,docker,kubernetes,pytorch,postgres,git,linux" />
 
 </div>
 
 ---
 
-# Featured Projects
+<div align="center">
+
+## About
+
+</div>
+
+I'm a Data Engineer exploring the world of AI.
+
+I enjoy building data platforms, distributed systems, and AI-native applications — from large-scale pipelines to RAG systems and LLM workflows.
+
+Currently exploring the space where **data engineering meets artificial intelligence**.
+
+---
 
 <div align="center">
 
-| Project | Description |
-|---|---|
-| AI-native Observability | Intelligent monitoring for distributed pipelines |
-| RAG Knowledge Engine | Semantic retrieval with vector databases |
-| Streaming Platform | Kafka + Spark real-time architecture |
-| LLM Workflow System | Prompt orchestration + agent pipelines |
+## What I Build
+
+`⚡ Data Pipelines`
+
+`◈ Distributed Systems`
+
+`✦ AI & LLM Applications`
+
+`⌁ RAG & Retrieval`
+
+`∞ ML Infrastructure`
+
+</div>
+
+---
+
+<div align="center">
+
+## Tools I Like
+
+**Python** · **Apache Spark** · **Kafka** · **AWS**
+**PyTorch** · **Hugging Face** · **Docker** · **Kubernetes**
+**PostgreSQL** · **MongoDB** · **Git**
+
+</div>
+
+---
+
+<div align="center">
+
+## Projects
+
+### AI-native Observability
+
+*Making distributed data systems easier to understand.*
+
+### RAG Knowledge Engine
+
+*Turning information into searchable intelligence.*
+
+### Real-time Data Platform
+
+*Streaming data with Kafka and Spark.*
+
+### LLM Workflow Systems
+
+*Building intelligent workflows powered by language models.*
 
 </div>
 
@@ -80,7 +96,9 @@
 
 ## Philosophy
 
-### “Turning noise into intelligence.”
+### *“Turning noise into intelligence.”*
+
+<br/>
 
 <img src="./assets/footer.gif" width="100%" />
 
