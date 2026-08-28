@@ -20,7 +20,7 @@
 
 ## About
 
-Data Engineer and AI/ML Engineer with 8+ years of experience, currently working as an AWS Consultant and Data Engineer. Bristol-educated in Data Science with Financial Technology, with 32 industry certifications across cloud, data, and ML platforms.
+Data Engineer and AI/ML Engineer with 5+ years of experience, currently working as an AWS Consultant and Data Engineer. Bristol-educated in Data Science with Financial Technology, with 32 industry certifications across cloud, data, and ML platforms.
 
 I build data platforms and pipelines, then extend them into AI-native applications — RAG systems, LLM-backed services, and production ML. Most of what's below is code I've actually shipped, not a wishlist.
 
