@@ -128,8 +128,6 @@ More on [hulash.com/projects](https://www.hulash.com/projects).
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=hulashc&theme=default&hide_border=true&background=transparent" alt="GitHub Streak Stats" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hulashc/hulashc/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hulashc/hulashc/output/github-contribution-grid-snake.svg" />
