@@ -4,8 +4,6 @@
 
 ### Data Engineer · AI/ML Engineer
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=24418C&center=true&vCenter=true&width=600&lines=Data+Engineer+building+AI-native+systems;8%2B+years+shipping+data+platforms+to+production;AWS+Consultant+and+Data+Engineer;Currently+exploring+LLM+infra+and+RAG+systems" alt="Typing SVG" />
-
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hulash.com-24418C?style=for-the-badge&logo=vercel&logoColor=white)](https://www.hulash.com)
