@@ -1,6 +1,6 @@
 <div align="center">
 
-# HULASH CHAND DONEMPUDI
+# HULASH CHAND
 
 ### Data Engineer · AI/ML Engineer
 
